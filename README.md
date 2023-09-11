@@ -1,2 +1,1 @@
-# TIL
-today i leared
+first commit
