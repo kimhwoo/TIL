@@ -13,8 +13,10 @@
 <details>
 <summary>2023-09-19</summary>
 
--네트워크 개념 (IPv4,IPv6,NIC,MAC address,FTP,Telnet,SSH,Well known port,Linux command) 노션 산출물 작성, 
-- "AI시대 기술동향과 활용방안" 서울시 디지털수석 이상용 
--VM 환경 Rocky Linux OS 설치 및 IP 세팅
+- 네트워크 개념 (IPv4,IPv6,NIC,MAC address,FTP,Telnet,SSH,Well known port,Linux command) 노션 산출물 작성
+
+- "AI시대 기술동향과 활용방안" 서울시 디지털수석 이상용
+
+- VM 환경 Rocky Linux OS 설치 및 IP 세팅
 
 </details>
