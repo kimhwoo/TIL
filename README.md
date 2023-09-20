@@ -20,3 +20,12 @@
 - VM 환경 Rocky Linux OS 설치 및 IP 세팅
 
 </details>
+
+<details>
+<summary>2023-09-20</summary>
+
+- 네트워크 개념 (Linux command Detail) 노션 산출물 내용 추가
+
+- VM 환경 Rocky Linux OS Weepkeeper 설치 환경 구성 및 라이센스 발급 전 단계까지 완료
+
+</details>
