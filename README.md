@@ -29,3 +29,11 @@
 - VM 환경 Rocky Linux OS Weepkeeper 설치 환경 구성 및 라이센스 발급 전 단계까지 완료
 
 </details>
+<details>
+<summary>2023-09-21</summary>
+
+- 네트워크 개념 (Linux command chmod,vivim,암호화 알고리즘) 노션 산출물 내용 추가
+
+- CM 설정,라이센스 발급 프로세스
+
+</details>
