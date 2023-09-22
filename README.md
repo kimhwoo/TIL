@@ -37,3 +37,9 @@
 - CM 설정,라이센스 발급 프로세스
 
 </details>
+<details>
+<summary>2023-09-22</summary>
+
+- 네트워크 개념 (WAS,웹서버) 노션 산출물 내용 추가
+
+</details>
