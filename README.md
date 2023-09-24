@@ -43,3 +43,13 @@
 - 네트워크 개념 (WAS,웹서버) 노션 산출물 내용 추가
 
 </details>
+
+</details>
+<details>
+<summary>2023-09-24</summary>
+
+- 네트워크 개념 (WAS,웹서버) 작성 완료
+
+- 부동산 공부 (청약 ,1억모으기)
+
+</details>
