@@ -53,3 +53,9 @@
 - 부동산 공부 (청약 ,1억모으기)
 
 </details>
+<details>
+<summary>2023-09-25</summary>
+
+- Rocky linux 환경 Webkeeper 설치 오류
+
+</details>
