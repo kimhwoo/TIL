@@ -59,3 +59,10 @@
 - Rocky linux 환경 Webkeeper 설치 오류
 
 </details>
+<details>
+<summary>2023-10-05</summary>
+
+- 리눅스 명령어 실습 및 log 뜯어보기
+- 노션 산출물 추가 작성
+
+</details>
